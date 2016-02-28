@@ -1,0 +1,41 @@
+_repo: A-Traveller-in-Little-Things_7982
+creator:
+  author:
+    agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Hudson, William Henry
+    - Harford, Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
+description: Sketches, reprinted in part from various periodicals about his travels
+  around England.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, English -- 19th century'
+- !lcc 'PR'
+- !lcsh 'English essays'
+- !lcsh 'Natural history -- England'
+tableOfContents: How I found my title -- The old man's delusion -- As a tree falls
+  -- Blood, a story of two brothers -- A story of long descent -- A second story of
+  two brothers -- A third story of two brothers -- The two white houses, a memory
+  -- Dandy, a story of a dog -- The samphire getherer -- A Surrey village -- A Wiltshire
+  village -- Her own village -- Apple blossoms and a lost village -- The vanishing
+  curtsey -- Little girls I have met -- Millicent and another -- Freckles -- On Cromer
+  beach -- Dimples -- Wild flowers and little girls -- Little girl lost -- A spray
+  of Southernwood -- In Porchester churchyard -- Homeless -- The story of a skull
+  -- A story of a walnut -- A story of a jackdaw -- A wonderful story of a mackerel
+  -- Strangers yet -- The return of the chiff-chaff -- A wasp at table -- Wasps and
+  men -- In Chitterne churchyard -- A haunter of churchyards -- The dead and the living
+  -- A story of three poems.
+title: A Traveller in Little Things
+url: http://www.gutenberg.org/ebooks/7982
