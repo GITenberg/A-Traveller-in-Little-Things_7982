@@ -1,4 +1,8 @@
 _repo: A-Traveller-in-Little-Things_7982
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hudson, W. H. (William Henry)
@@ -12,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
 description: Sketches, reprinted in part from various periodicals about his travels
   around England.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7982#A-Traveller-in-Little-Things
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
